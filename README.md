@@ -81,13 +81,15 @@ A collection of JavaScript exercises, sorted by (asumed) difficulty (ascending).
 76. Flex layout from form input    
 77. Whack a mole game    
 78. Audio visualization    
-79. Tetris    
-80. Pong    
-81. Multi sort & filter list (sort by different values, also filter values)    
-82. 2D platform game   
-83. Circle with smaller circles in it that move a straight line but appear to be cirling (https://imgur.com/a/aOnzerj)    
-84. Pixelart Editor  
-85. create an OS with JS 
+79. Classic Games
+    - Pong
+    - Astroids
+    - Pacman
+80. Multi sort & filter list (sort by different values, also filter values)    
+81. 2D platform game   
+82. Circle with smaller circles in it that move a straight line but appear to be cirling (https://imgur.com/a/aOnzerj)    
+83. Pixelart Editor  
+84. create an OS with JS 
 
 # sources 
 
