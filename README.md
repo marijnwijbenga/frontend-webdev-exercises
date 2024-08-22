@@ -1,5 +1,5 @@
 # Vanilla JS practice exercises
-A collection of JavaScript exercises, sorted by (asumed) difficulty (ascending).
+A collection of JavaScript exercises, sorted by difficulty (ascending).
 
 1. Calculate age in seconds  
 2. Sticky Navigation    
