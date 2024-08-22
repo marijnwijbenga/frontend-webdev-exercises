@@ -1,8 +1,6 @@
 # Vanilla JS practice exercises
 A collection of JavaScript exercises, sorted by (asumed) difficulty (ascending).
 
-## create stylefile
-
 1. Calculate age in seconds  
 2. Sticky Navigation    
 3. Click and drag to scroll    
